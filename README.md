@@ -37,7 +37,7 @@ The Home Automation Lab project aimed to establish a controlled environment for 
 
 - Configured Splunk
 
-- setup monitoring event logs
+- Setup monitoring event logs
 
 - Created Malware using MSFVenmon
 
